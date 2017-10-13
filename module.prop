@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=AOSPAPixelNav
+name=AOSPA Pixel Navbar
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=JohnnyDepth
+description=A magisk module to add the Pixel navbar animation to the OnePlus 3 running Paranoid Android 7.3
 template=1400
